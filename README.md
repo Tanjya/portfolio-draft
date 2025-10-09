@@ -1,3 +1,4 @@
 ## portfolio
 
-Aim to finish by Swz
+Portfolio ideas & draft work
+
