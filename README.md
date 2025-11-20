@@ -2,7 +2,7 @@
 
 This is my first portfolio draft, a work in progress React project where I’m experimenting with layouts, colours, and component structure for my personal website.
 
-View my portfolio: [Tanjya.Akther](https://tanjya-akther.netlify.app/)
+PORTFOLIO: [Tanjya.Akther](https://tanjya-akther.netlify.app/)
 
 ---
 
