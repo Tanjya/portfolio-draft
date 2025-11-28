@@ -1,6 +1,6 @@
 # 🌐 Portfolio Draft  
 
-This is my first portfolio draft, a work in progress React project where I’m experimenting with layouts, colours, and component structure for my personal website.
+This is my first portfolio draft, a work in progress React project where I’m experimenting with layouts, colours and component structure for my personal website.
 
 PORTFOLIO LINK: [Tanjya.Akther](https://tanjya-akther.netlify.app/)
 
