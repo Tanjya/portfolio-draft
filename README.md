@@ -22,4 +22,4 @@ PORTFOLIO LINK: [Tanjya.Akther](https://tanjya-akther.netlify.app/)
 - Early version of my personal portfolio
 - Focused on layout and section structure
 - Still adding projects, animations and styling
-- Include about me, personal projects, experience & contact
+
